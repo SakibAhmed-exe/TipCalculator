@@ -1,26 +1,16 @@
-# Pre-work - *Tip it Up!*
-
 **Tip it Up!** is a tip calculator application for iOS.
 
-Submitted by: **Sakib Ahmed**
-
-Time spent: **6** hours spent in total
 
 ## User Stories
 
-The following **required** functionality is complete:
+The following functionality is complete:
 
-* User can enter a bill amount, choose a tip percentage, and see the tip and total values.
-* User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
-
-The following **optional** features are implemented:
-
-* Using locale-specific currency and currency thousands separators.
-* Making sure the keyboard is always visible and the bill amount is always the first responder. 
-
-The following **additional** features are implemented:
-* Settings screen allowing user to change default tip percentages
-* More colorful objects and backgrounds in UI design
+- User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+- User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
+- Using locale-specific currency and currency thousands separators.
+- Making sure the keyboard is always visible and the bill amount is always the first responder. 
+- Settings screen allowing user to change default tip percentages
+- More colorful objects and backgrounds in UI design
 
 ## Video Walkthrough
 
@@ -29,10 +19,6 @@ Here's a walkthrough of implemented user stories:
 <img src='http://g.recordit.co/pUWLwIGyM1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with RecordIt
-
-## Notes
-
-This was a lot of fun and my first time using Swift! I appreciated how intuitive the documentation provided by CodePath was, as well as all the links to external resources. I struggled with the idea of UserDefaults at first, but eventually figured out how to load and save data from different View Controllers with some trial and error. 
 
 ## License
 
